@@ -8,7 +8,7 @@ Additionally, we ensure that the platform is populated with accurate and up-to-d
 **Design**
 
 The REsynque design team includes UX/UI designers that focus on creating a user-centric design that is intuitive, easy to use, and visually appealing, in order to help users navigate the complex process of buying or selling a property.
-We work to understand the needs and goals of the platform's users by conducting user research testing, and gaining insights into behavior and preferences. This research is then used to create a seamless interface that is easy to navigate and understand. The design team also continuously monitors user feedback and analytics to continuously improve the REsynque user experience.
+We work to understand the needs and goals of the platform's users by conducting user research, testing, and gaining insights into behavior and preferences. This research is then used to create a seamless interface that is easy to navigate and understand. The design team also continuously monitors user feedback and analytics to continuously improve the REsynque user experience.
 
 **Engineering Team**
 
@@ -21,4 +21,4 @@ Resynque’s content professionals are responsible for creating a consistent bra
 
 **Color**
 
-The branding team creates the platform's visual identity. We work closely with the rest of the REsynque team to develop a brand that aligns with the platform's mission, values, and target audience. We also understand that consistency is key to building a strong presence, so work to produce a cohesive, consistent, and enjoyable user experience with every visit.
+The branding team creates the platform's visual identity. We help develop a brand that aligns with the platform's mission, values, and target audience. We also understand that consistency is key to building a strong presence, so try to produce a cohesive, consistent, and enjoyable user experience with every visit.
